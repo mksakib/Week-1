@@ -2,11 +2,12 @@
 pragma solidity >=0.7.0 <0.9.0;
 
 contract HelloWorld {
-    address private owner;
-    string public textContent;
+    address public  owner;
+    string private textContent;
 
-    modifier onlyOwner() {
-        owner = msg.sender;
+    modifier onlyOwner()
+    {
+        require (msg.sender == owner, "Caller is not the owner");
         _;
     }
 
