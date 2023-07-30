@@ -20,5 +20,5 @@ Transaction: https://sepolia.etherscan.io/tx/0xed0d2db10042862a09e6650d476212df9
 Address: `0xbc062e78c5c6674e09c2dd9d5fe02b626b887bee`
 Transaction: https://sepolia.etherscan.io/tx/0x7837be33f58f4a8aae276057f1d9a2e92be3c93c432a02038f6dcf4b4731d632
 
-setText failed because of onlyOwner modifier
+setText failed as expected because setText was called by someone who is not an owner
 https://sepolia.etherscan.io/tx/0x7837be33f58f4a8aae276057f1d9a2e92be3c93c432a02038f6dcf4b4731d632
