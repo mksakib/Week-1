@@ -27,3 +27,12 @@ Transaction: https://sepolia.etherscan.io/tx/0x7837be33f58f4a8aae276057f1d9a2e92
 * https://sepolia.etherscan.io/tx/0x46dd58e60c2a265def21eaccebb292465ed036c42a1cd61f86a12e3de119bdac
 
 > setText failed because of onlyOwner modifier
+
+## Contract interaction (Change owner)
+
+* https://sepolia.etherscan.io/tx/0x7c37b9c43a4c8854053f1a2cf3ec0da3faf64032c7d7efb748db9538d06cc79b
+
+
+## Contract interaction (SetText after Changing owner)
+
+* https://sepolia.etherscan.io/tx/0xc7e276fc1ec7ed9876da535a9ed5f4430683ada0b554131d5948e4b8121db68f
