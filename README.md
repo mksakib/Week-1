@@ -37,3 +37,12 @@ Transaction: https://sepolia.etherscan.io/tx/0x7837be33f58f4a8aae276057f1d9a2e92
 ## Contract interaction (SetText after Changing owner)
 
 * https://sepolia.etherscan.io/tx/0xc7e276fc1ec7ed9876da535a9ed5f4430683ada0b554131d5948e4b8121db68f
+
+By Khalid -
+These are mine,
+
+Changed owner: https://sepolia.etherscan.io/tx/0xa953239c718b6081aa182ce20247b43f1aeaddd11566f3c15531f7f4aa771b50
+
+setText: https://sepolia.etherscan.io/tx/0xb2f71fe4a82e40693c86321d001349fc41d38057acd9e19d6e3955aeea6de37a#statechange
+
+From: 0x2bdB408FDD46C605095eC76427437d1c84610ABF
